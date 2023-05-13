@@ -1,4 +1,6 @@
 # Ruby GTK4 Layer Shell
+![Gem](https://img.shields.io/gem/v/gtk4_layer_shell)
+
 This is a set of Ruby bindings for [Gtk4LayerShell](https://github.com/wmww/gtk4-layer-shell),
 which is a library that enables using the Wayland layer shell protocol with GTK4 applications.
 
